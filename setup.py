@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='scbapi',
-    version='0.0.1',
+    version='0.1',
     description='Funktion för anrop av SCPs API',
     author='oj',
     license='BSD 2-clause',
